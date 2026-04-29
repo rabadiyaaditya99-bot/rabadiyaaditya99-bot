@@ -1,12 +1,3 @@
----
-
-## 🎯 My Journey
-
-|  |  |
-| --- | --- |
-| 📚 **Right Now** — Building strong foundations in Data Science & ML. Learning Python, statistics, and core ML algorithms | 🚀 **End Goal** — Become an AI/ML Engineer. Work on real-world AI problems and intelligent systems |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -74,15 +65,6 @@
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-
-
----
-
-## 📊 GitHub Stats
-
-
-
-![Aditya's GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=rabadiyaaditya99-bot&show_icons=true&theme=react&border_radius=10)
 
 
 
